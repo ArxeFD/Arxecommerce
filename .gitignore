@@ -1,1 +1,13 @@
 /target/
+
+# Maven
+target/
+
+# Eclipse / VSCode
+.settings/
+.project
+.classpath
+
+# Otros temporales
+*.log
+*.tmp
